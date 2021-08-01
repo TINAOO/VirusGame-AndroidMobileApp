@@ -1,6 +1,6 @@
 # VirusGame-AndroidMobileApp
 #### Home Page
-![](1homepage.jpg = 100x200)
+<img src="1homepage.jpg" width="100" height="200">
 #### Map Page
 ![](2mappage.jpg)
 #### Game Page
