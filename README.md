@@ -9,7 +9,7 @@
 <img src="3gamepage.jpg" width="400" height="850">
 
 #### Rotated Game Page  
-<img src="4rotatedgamepage.jpg" width="400" height="850">
+<img src="4rotatedgamepage.jpg" width="850" height="400">
 
 #### Profile Page 
 <img src="5profile.jpg" width="400" height="850">
