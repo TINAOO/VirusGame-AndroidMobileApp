@@ -1,15 +1,15 @@
 # VirusGame-AndroidMobileApp
 #### Home Page
-<img src="1homepage.jpg" width="300" height="500">
+<img src="1homepage.jpg" width="400" height="850">
 #### Map Page
-![](2mappage.jpg)
-#### Game Page
-![](3gamepage.jpg)
-#### Rotated Game Page
-![](4rotatedgamepage.jpg)
-#### Profile Page
-![](5profile.jpg)
-#### Setting Page
-![](6settingpage.jpg)
-#### External Service
-![](7externalpage.jpg)
+<img src="2mappage.jpg" width="400" height="850">
+#### Game Page 
+<img src="3gamepage.jpg" width="400" height="850">
+#### Rotated Game Page 
+<img src="4rotatedgamepage" width="400" height="850">
+#### Profile Page 
+<img src="5profile.jpg" width="400" height="850">
+#### Setting Page 
+<img src="6settingpage.jpg" width="400" height="850">
+#### External Service 
+<img src="7externalpage.jpg" width="400" height="850">
